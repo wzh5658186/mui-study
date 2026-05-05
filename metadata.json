@@ -1,0 +1,6 @@
+{
+  "name": "DataGrid Cell Validator",
+  "description": "A manual cell validation tool for MUI DataGrid that displays error messages to the right of the cell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
